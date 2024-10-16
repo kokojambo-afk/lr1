@@ -1,0 +1,1 @@
+git rm --cached text2.txt rm 'text2.txt'
